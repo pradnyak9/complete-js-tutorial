@@ -3,7 +3,7 @@
  * Strings in JavaScript can be enclosed in Single quotes 'hello', Double quotes "Hello" and (from ES2015, ES6) in
  * Template Literals (backticks) `hello`.
  */
- console.log("################################################")
+console.log("################################################")
 console.log("Section 3.1: Basic Info and String Concatenation");
 console.log("################################################")
 var hello = "Hello", world = 'World', helloW = `Hello World`;
